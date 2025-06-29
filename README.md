@@ -5,7 +5,7 @@ I'm a Mechatronic Engineer who works as a Data Analyst/Data Engineer in the port
 I currently specialize in **UiPath RPA Technology** and programming languages such as **Python** & **C#**, also have an expertise in **Power BI** and **SQL**. 
 
 ## 📈 Statistics 
-<h1 align="center">Github Metrics </h1>
+<h2 align="center">Github Metrics </h2>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrizdgs&theme=github_dark" />
 </p>
